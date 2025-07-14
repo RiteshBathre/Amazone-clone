@@ -1,3 +1,4 @@
 # Amazone-clone
+
 Amazone clone using html, css.
-Author - Ritesh Bathre.
+Author - Ritesh Bathre(web dev).
